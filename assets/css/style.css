@@ -178,7 +178,7 @@ nav ul a:hover::after {
   text-align: center;
   display: block;
   vertical-align: middle;
-  height: calc(90vh - 100px);
+  height: calc(80vh - 100px);
   max-height: 720px;
 }
 
