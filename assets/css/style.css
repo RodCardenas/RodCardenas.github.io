@@ -285,7 +285,7 @@ nav ul a:hover::after {
 .projects li a{
   display: block;
   position: relative;
-  min-height: 270px;
+  min-height: 321px;
   background: #f9f9f9;
   text-align: center;
   overflow: hidden;
@@ -406,7 +406,6 @@ nav ul a:hover::after {
   margin: 0 auto;
   padding: 2em 1em 2em 1em;
 
-  width: 100%;
   font-size: 1em;
   background: #181818;
   color: #7d7d7d;
